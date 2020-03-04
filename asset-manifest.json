@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kn4785/kn4785.github.io-react-tutorial.git/static/css/main.4d924b0b.chunk.css",
+    "main.js": "/kn4785/kn4785.github.io-react-tutorial.git/static/js/main.c32eeb48.chunk.js",
+    "main.js.map": "/kn4785/kn4785.github.io-react-tutorial.git/static/js/main.c32eeb48.chunk.js.map",
+    "runtime-main.js": "/kn4785/kn4785.github.io-react-tutorial.git/static/js/runtime-main.5a41c806.js",
+    "runtime-main.js.map": "/kn4785/kn4785.github.io-react-tutorial.git/static/js/runtime-main.5a41c806.js.map",
+    "static/js/2.68bfcd5e.chunk.js": "/kn4785/kn4785.github.io-react-tutorial.git/static/js/2.68bfcd5e.chunk.js",
+    "static/js/2.68bfcd5e.chunk.js.map": "/kn4785/kn4785.github.io-react-tutorial.git/static/js/2.68bfcd5e.chunk.js.map",
+    "index.html": "/kn4785/kn4785.github.io-react-tutorial.git/index.html",
+    "precache-manifest.fe63d92508f62439db58312d074025f1.js": "/kn4785/kn4785.github.io-react-tutorial.git/precache-manifest.fe63d92508f62439db58312d074025f1.js",
+    "service-worker.js": "/kn4785/kn4785.github.io-react-tutorial.git/service-worker.js",
+    "static/css/main.4d924b0b.chunk.css.map": "/kn4785/kn4785.github.io-react-tutorial.git/static/css/main.4d924b0b.chunk.css.map",
+    "static/js/2.68bfcd5e.chunk.js.LICENSE.txt": "/kn4785/kn4785.github.io-react-tutorial.git/static/js/2.68bfcd5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a41c806.js",
+    "static/js/2.68bfcd5e.chunk.js",
+    "static/css/main.4d924b0b.chunk.css",
+    "static/js/main.c32eeb48.chunk.js"
+  ]
+}
